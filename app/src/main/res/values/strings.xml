@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="api_base_url" />
+    <resources>
+        <string name="https://www.thedogapi.com/">https://www.thedogapi.com/</string>
+        <string name="https://thecatapi.com/">https://thecatapi.com/</string>
+    </resources>
+
+</resources>
